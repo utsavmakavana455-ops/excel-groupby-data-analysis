@@ -94,11 +94,6 @@ The basic structure I learned is:
 GROUPBY → Group the data → Select values → Apply calculation
 ```
 
-For example:
-
-```excel
-=GROUPBY(Region,Sales,SUM)
-```
 
 This makes it easier to transform raw transaction data into meaningful summaries.
 
@@ -122,5 +117,5 @@ I plan to extend this project by practicing:
 
 **Tools:** Microsoft Excel
 **Focus:** Data Analysis & Excel Functions
-**Level:** Beginner → Intermediate
+
 
